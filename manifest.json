@@ -1,0 +1,15 @@
+{
+  "short_name": "LumosFinance",
+  "name": "Lumos finance offers a yield crafting platform and users can earn the precious $LMS ingredient. In return, users will receive NFT diplomas at the end of the crafting period.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "91x91"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
