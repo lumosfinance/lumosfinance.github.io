@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ce93736712bcb3bd08066c8dfe3eb668",
+    "revision": "68fab13550182877ebc8deba709811fb",
     "url": "https://lumos.finance/index.html"
   },
   {
-    "revision": "907089f5ffc0bf8e1cd2",
+    "revision": "22ee61901aca3af1d35a",
     "url": "https://lumos.finance/static/css/main.cb33edc2.chunk.css"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://lumos.finance/static/js/9.877da469.chunk.js"
   },
   {
-    "revision": "907089f5ffc0bf8e1cd2",
-    "url": "https://lumos.finance/static/js/main.6b87aa9d.chunk.js"
+    "revision": "22ee61901aca3af1d35a",
+    "url": "https://lumos.finance/static/js/main.fe1e5f8c.chunk.js"
   },
   {
     "revision": "48bffe118032f360b99e",
