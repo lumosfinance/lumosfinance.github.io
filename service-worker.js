@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://lumos.finance/precache-manifest.30072c21c633fff1de2d25d1b872a277.js"
+  "https://lumos.finance/precache-manifest.f2fee5f6dcad7da8dd6f43ec9b6826ee.js"
 );
 
 self.addEventListener('message', (event) => {
